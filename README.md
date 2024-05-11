@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nisha1036
+- 👋 Hi, I’m @Nisha_Sharma
 - 👀 I’m interested in exporing the data.
 - 🌱 I’m currently learning python, sql.
 
