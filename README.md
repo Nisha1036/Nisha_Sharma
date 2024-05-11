@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Nisha1036
 - 👀 I’m interested in exporing the data.
 - 🌱 I’m currently learning python, sql.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nishasharma99.info@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!--Passionate data analyst. with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world..
+- 📫 How to reach me nishasharma99.info@gmail.com
+- 😄 Pronouns: Nisha
+- ⚡ Fun fact: 
+
+<!--I am a dedicated and results-driven Business Intelligence professional with some experience focused expertise in the dynamic realm of Business Intelligence tools such as Power BI Desktop, Excel, and SQL Server.
 --->
